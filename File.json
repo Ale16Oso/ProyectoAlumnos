@@ -1,0 +1,76 @@
+{
+    "alumnosHistoria": [
+    {
+      "nombre": "Luis Perez",
+      "edad": 19,
+      "materia": "Historia",
+      "calificacion": 8.2
+    },
+    {
+      "nombre": "Leticia Gonzalez",
+      "edad": 19,
+      "materia": "Historia",
+      "calificacion": 8.5
+    },
+    {
+      "nombre": "Diddier Huerta",
+      "edad": 45,
+      "materia": "Historia",
+      "calificacion": 9.0
+    },
+    {
+        "nombre": "Hector Sanchez",
+        "edad": 29,
+        "materia": "Historia",
+        "calificacion": 7.9
+      },
+      {
+        "nombre": "Patricia Lopez",
+        "edad": 29,
+        "materia": "Historia",
+        "calificacion": 9.8
+      },
+      {
+        "nombre": "Yolanda Lara",
+        "edad": 900,
+        "materia": "Historia",
+        "calificacion": 6.9
+      },
+      {
+        "nombre": "Omar Juarez",
+        "edad": 57,
+        "materia": "Historia",
+        "calificacion": 8.7
+      },
+      {
+        "nombre": "Isaabel Torres",
+        "edad": 200,
+        "materia": "Historia",
+        "calificacion": 9.2
+      },
+      {
+        "nombre": "Ricardo Duran",
+        "edad": 33,
+        "materia": "Historia",
+        "calificacion": 8.0
+      },
+      {
+        "nombre": "Carlos Pacheco",
+        "edad": 33,
+        "materia": "Historia",
+        "calificacion": 9.6
+      },
+      {
+        "nombre": "Ana Segura",
+        "edad": 41,
+        "materia": "Historia",
+        "calificacion": 5.0
+      },
+      {
+        "nombre": "Pedro Aviles",
+        "edad": 27,
+        "materia": "Historia",
+        "calificacion": 10.0
+      }
+  ]
+}
